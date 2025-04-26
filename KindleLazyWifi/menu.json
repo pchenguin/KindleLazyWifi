@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "name": "KindleLazyWifi",
+      "items": [
+		{
+		  "name": "Start",
+		  "action": "bin/start.sh"
+		},
+		{
+		  "name": "Start reverse",
+		  "action": "bin/start-reverse.sh"
+		},
+		{
+		  "name": "Stop",
+		  "action": "bin/stop.sh"
+		}
+                ]
+    }
+           ]
+}
